@@ -6,7 +6,7 @@ Generate a text file with the amplitude values of the three gradient components 
 Compile on Start_trajectory_comp.c or execute AZTEK.exe
 Enter (1) the number of spokes (2) AZTEK_Twist (3) AZTEK_Shuffle (4) AZTEK_Speed when prompted to do so. Separate every number by a space.
 
-#References and mentions
+# References and mentions
 AZTEK: Adaptive Zero TE K-space trajectories
 Tanguy Boucneau, Brice Fernandez, Florent Besson, Anne Menini, Florian Wiesinger, Emmanuel Durand, Caroline Caramella, Luc Darrasse, and Xavier Maître
 
